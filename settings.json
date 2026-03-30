@@ -23,17 +23,17 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "BÚ CU BỐ MÀY ĐI",
+        "QUỐC VIỆT ĐẸP TRAI ",
+        "Bố mày địt nhau voi mẹ mày"
       ]
     },
     "chat-log": true,
@@ -42,19 +42,19 @@
     "max-reconnect-delay": 1200
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 1,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 500
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
